@@ -32,11 +32,19 @@ a{
     src:url(../fonts/oswald/Oswald-Regular.ttf);
 }
 @font-face{
+<<<<<<< HEAD
     font-family:'oswald-bold';
     scr:url(../fonts/oswald/Oswald-SemiBold.ttf);
 }
 @font-face{
     font-family:'oswald-Med';
+=======
+    font-family:'oswaldbold';
+    scr:url(../fonts/oswald/Oswald-SemiBold.ttf);
+}
+@font-face{
+    font-family:'oswaldmed';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     src:url(../fonts/oswald/Oswald-Medium.ttf);
 }
 
@@ -47,7 +55,11 @@ a{
     position:relative;
 }
 .heading h3{
+<<<<<<< HEAD
 font-family:'oswald-bold';
+=======
+font-family:'oswaldbold';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
 font-size:24px;
 text-transform:uppercase;
 color:rebeccapurple;
@@ -186,14 +198,22 @@ color:rebeccapurple;
     text-align:center;
 }
 .banner-bg .banner h2{
+<<<<<<< HEAD
     font-family:'oswald-bold';
+=======
+    font-family:'oswaldbold';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     color:#fff;
     font-size:30px;
     text-transform:uppercase;
     padding-top:80px;
 }
 .banner-bg .banner h1{
+<<<<<<< HEAD
     font-family:'oswald-bold';
+=======
+    font-family:'oswaldbold';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     color:#fff;
     font-size:40px;
     text-transform:uppercase;
@@ -209,7 +229,11 @@ color:rebeccapurple;
 
 }
 .banner-bg .banner a{
+<<<<<<< HEAD
     font-family:'opensans';
+=======
+    font-family:opensans;
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     color:#fff;
     font-size:14px;
     text-transform:uppercase;
@@ -353,7 +377,11 @@ padding-top:30px;
   
   }
   .service-bg .service-content .service-item h4{
+<<<<<<< HEAD
    font-family: 'oswald-bold';
+=======
+   font-family: 'oswaldbold';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
    text-transform: uppercase;
    font-size:16px;
    color:blue;
@@ -660,7 +688,7 @@ z-index:1;
 }   
 .testimonial-bg .testimonial .testimonial-content .testimonial-item .testimonial-text h4{
 
-font-family:rayhan;
+font-family:oswaldbold;
 font-size:16px;
 text-transform:uppercase;
 color:#353535;
@@ -668,7 +696,11 @@ padding-top:10px;
 }
 .testimonial-bg .testimonial .testimonial-content .testimonial-item .testimonial-text h6{
 
+<<<<<<< HEAD
     font-family:oswald-bold;
+=======
+    font-family:oswaldbold;
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     font-size:13px;
     text-transform:uppercase;
     color:#555;
@@ -678,7 +710,11 @@ padding-top:10px;
     }
     .testimonial-bg .testimonial .testimonial-content .testimonial-item .testimonial-text p{
 
+<<<<<<< HEAD
         font-family:oswald-bold;
+=======
+        font-family:opensans;
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
         font-size:13px;
         color:#555;
         line-height:24px;
@@ -728,7 +764,11 @@ height:36px;
 line-height:24px;
 font-size:13px;
 color:black;
+<<<<<<< HEAD
 font-family:'oswald-bold';
+=======
+font-family:'opensans';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
 margin-bottom:20px;
 padding-top:15px;
 
@@ -760,7 +800,11 @@ line-height:26px;
     line-height:22px;
     font-size:13px;
     color:black;
+<<<<<<< HEAD
     font-family:'oswald-bold';
+=======
+    font-family:'opensans';
+>>>>>>> 26a8bd44d003dcf40c900fa790d33d03e0c802e0
     display:block;
     margin-bottom:10px;
     padding-left:45px;
