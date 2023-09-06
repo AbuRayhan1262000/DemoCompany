@@ -119,7 +119,7 @@ color:rebeccapurple;
 
 }
 .header-bg .header .header-social ul li a i:hover{
-    color:blue;
+    background-color:blue;
 }
 /*header css ends*/
 /*menu starts*/
