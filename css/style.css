@@ -24,19 +24,19 @@ a{
 }
 /*common css ends*/
 @font-face{
-    font-family:'rayhan';
+    font-family:'opensans';
     src:url(../fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf);
 }
 @font-face{
-    font-family:'bainchud';
+    font-family:'oswald';
     src:url(../fonts/oswald/Oswald-Regular.ttf);
 }
 @font-face{
-    font-family:'chutmarni';
+    font-family:'oswald-bold';
     scr:url(../fonts/oswald/Oswald-SemiBold.ttf);
 }
 @font-face{
-    font-family:'halarput';
+    font-family:'oswald-Med';
     src:url(../fonts/oswald/Oswald-Medium.ttf);
 }
 
@@ -47,7 +47,7 @@ a{
     position:relative;
 }
 .heading h3{
-font-family:'halarput';
+font-family:'oswald-bold';
 font-size:24px;
 text-transform:uppercase;
 color:rebeccapurple;
@@ -90,7 +90,7 @@ color:rebeccapurple;
     float:left;
 }
 .header-bg .header .header-text p{
-    font-family:'rayhan';
+    font-family:'opensans';
     font-size:14px;
     text-transform:capitalize;
     color:white;
@@ -152,7 +152,7 @@ color:rebeccapurple;
 .menu-bg .menu .menu-list ul li a{
     text-transform:capitalize;
     color:black;
-    font-family: 'rayhan';
+    font-family: 'opensans';
     transition: all linear 0.4s;
 }
 .menu-bg .menu .menu-list ul li:hover a{
@@ -186,21 +186,21 @@ color:rebeccapurple;
     text-align:center;
 }
 .banner-bg .banner h2{
-    font-family:'bainchud';
+    font-family:'oswald-bold';
     color:#fff;
     font-size:30px;
     text-transform:uppercase;
     padding-top:80px;
 }
 .banner-bg .banner h1{
-    font-family:'chutmarni';
+    font-family:'oswald-bold';
     color:#fff;
     font-size:40px;
     text-transform:uppercase;
 
 }
 .banner-bg .banner p{
-    font-family:'bainchud';
+    font-family:'opensans';
     color:black;
     font-size:15px;
     line-height:24px;
@@ -209,7 +209,7 @@ color:rebeccapurple;
 
 }
 .banner-bg .banner a{
-    font-family:rayhan;
+    font-family:'opensans';
     color:#fff;
     font-size:14px;
     text-transform:uppercase;
@@ -299,7 +299,7 @@ width:100%;
    float:left;
 }
 .about-bg .about .about-content .about-text p{
-font-family:'rayhan';
+font-family:'opensans';
 font-size:13px;
 color:black;
 line-height:24px;
@@ -353,7 +353,7 @@ padding-top:30px;
   
   }
   .service-bg .service-content .service-item h4{
-   font-family: 'bainchud';
+   font-family: 'oswald-bold';
    text-transform: uppercase;
    font-size:16px;
    color:blue;
@@ -361,7 +361,7 @@ padding-top:30px;
    padding-bottom:10px;
   }
   .service-bg .service-content .service-item p{
-    font-family: 'rayhan';
+    font-family: 'opensans';
     font-size:13px;
     color:#555;
     line-height: 24px;
@@ -530,7 +530,7 @@ padding-top:7px;
 text-align:center;
 font-size:16px;
 text-transform:uppercase;
-font-family:rayhan;
+font-family:opensans;
 color:#353535;
 margin-top:5px;
 transition:all linear 0.4s;
@@ -543,7 +543,7 @@ transition:all linear 0.4s;
     text-align:center;
     font-size:14px;
     text-transform:uppercase;
-    font-family:bainchud;
+    font-family:opensans;
     color:#555555;
     }
 .team-bg .team .team-content .team-item:last-of-type{
@@ -668,7 +668,7 @@ padding-top:10px;
 }
 .testimonial-bg .testimonial .testimonial-content .testimonial-item .testimonial-text h6{
 
-    font-family:bainchud;
+    font-family:oswald-bold;
     font-size:13px;
     text-transform:uppercase;
     color:#555;
@@ -678,7 +678,7 @@ padding-top:10px;
     }
     .testimonial-bg .testimonial .testimonial-content .testimonial-item .testimonial-text p{
 
-        font-family:bainchud;
+        font-family:oswald-bold;
         font-size:13px;
         color:#555;
         line-height:24px;
@@ -728,7 +728,7 @@ height:36px;
 line-height:24px;
 font-size:13px;
 color:black;
-font-family:'bainchud';
+font-family:'oswald-bold';
 margin-bottom:20px;
 padding-top:15px;
 
@@ -760,7 +760,7 @@ line-height:26px;
     line-height:22px;
     font-size:13px;
     color:black;
-    font-family:'bainchud';
+    font-family:'oswald-bold';
     display:block;
     margin-bottom:10px;
     padding-left:45px;
@@ -821,7 +821,7 @@ margin-right:0;
 color:black;
 text-align:center;
 font-size:16px;
-font-family:'rayhan';
+font-family:'opensans';
 text-transform:capitalize;
 line-height:80px;
 
