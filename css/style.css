@@ -132,6 +132,7 @@ color:rebeccapurple;
 }
 .header-bg .header .header-social ul li a i:hover{
     background-color:blue;
+    border-radius: 5px;
 }
 /*header css ends*/
 /*menu starts*/
